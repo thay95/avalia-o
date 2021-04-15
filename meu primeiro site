@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<!-- este documento é um html 5 -->
+<html>
+
+<head>
+<meta charset="utf-8">
+<title> </title>
+</head>
+
+<body>
+
+<img src="https://segredosdomundo.r7.com/wp-content/uploads/2019/08/estrela-cadente-o-que-e-e-quatro-dicas-para-conseguir-ve-la-1024x576.png" width="50%">
+
+<a href="http://planeta.rio/"
+target="_blank" > <p>
+  
+Clique aqui para o site do planetário.
+</a> <p>
+
+ <h1> visite o planetário </h1>
+
+ <h2>marque sua visita </h2>
+
+</body>
+</html>
