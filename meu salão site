@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Minha segunda Página</title>
+
+    <style>
+      /* #cabecalho {background-color: #009900} */
+      /* #corpo {background-color: #996600} */
+      li {
+        color: blue;
+         background-color: yellow;
+      }
+    </style>
+  </head>
+  <body>
+ 
+  <div id="cabecalho">
+    <img src="https://fotos.vivadecora.com.br/decoracao-salao-de-beleza-luminarias-metalicas-modernas-e-piso-de-madeira-revistavd-205396-proportional-height_cover_medium.jpg" width="42%" />
+    <h1> Meu salão de beleza </h1>
+    <hr/>
+  </div>
+
+  <div id="corpo" >
+
+  <table border=1>
+     <tfoot>
+      <tr>
+        <th>Total</th><th>812,00</th>
+      </tr>
+    </tfoot>
+
+   
+    <tbody>
+    <tr>
+      <td> depilação completa </td> <td> 482,00 </td>
+    </tr>
+
+    <tr>
+      <td style="text-align: center"> manicure e pedicure </td> <td> 80,00 </td>
+    </tr>
+
+     <tr>
+      <td> sombracelha definitiva </td> <td> 250,00 </td>
+    </tr>
+    </tbody>
+   
+ <thead>
+      <tr>
+        <th> Serviços </th> <th> Valor </th>
+      </tr>
+    </thead>
+
+  </table>
+
+    <h1> Serviços </h1>
+    <ol>
+      <li style="list-style-type: square;">depilação</li>
+      <li>desing de unhas </li>
+      <li>desing de sombrcelhas</li>
+    </ol>
+
+
+    <h2> Como trabalhamos ? </h2>
+    <ul>
+      <li>Marque seu horário</li>
+      <li>confirme sua presença um dia antes </li>
+      <li>tolerância de atraso 20 minutos</li>
+      <li>horário de funcionamento\quarta,sexta e sabádo10:00ás19:00hs.</li>
+     <li> <a href="quemsomos.html">Quem Somos?</a></li>
+     <li> <a href="contatos.html">ligue já!!!</a></li>
+    </ul>
+
+  
+
+
+  </div>
+
+  <div id="rodape">
+    <hr>
+    <small> Todos os direitos reservados </small>
+  </div>
+
+  </body>
+</html>
