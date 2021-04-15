@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <script src="script.js"></script>
+
+    <h1> Sistema Editorial da Vogue (BR) </h1>
+    <form>
+      <label for="titulo">Título da notícia</label>
+      <input type="text" id="titulo" 
+      placeholder="Será exibido no site principal"
+      >
+      <br><br>
+      <label for="data">Data da notícia</label>
+      <input type="date" id="data">
+      <br><br>
+      <P for="noticia">Notícia</P>
+      <textarea id="noticia" rows="10" cols="30">
+      </textarea>
+
+      <br><br>
+      <input type="submit">
+    </form>
+  </body>
+</html>
