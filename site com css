@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+ <head>
+<style>
+
+body {
+background-image: url("https://s2.glbimg.com/pso_62_LAIGAqlEJVzaGZFukCWo=/620x480/e.glbimg.com/og/ed/f/original/2019/10/23/perfumes_de_luxo_em_uma_bancada_de_marmore.jpg");
+}
+
+
+h1 { border-style: dotted;
+  border-color:ff9900
+;
+  opacity: 0.8;
+   background-color:white;
+  text-align: center;
+  color: #cc9900;
+  }h2 { border-style: dotted;
+  border-color:ff9900
+;
+  opacity: 0.5;
+   background-color:black;
+  text-align: center;
+  color: #cc9900;
+  }
+
+
+
+
+  
+  
+</style>
+  </html></head>
+<body>
+ <h1>Perfumaria Carioca</h1>
+ <h2> faça o seu Pedido</h2>
+
